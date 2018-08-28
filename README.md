@@ -1,3 +1,3 @@
 # Handwriting-Recognition
 
-Handwriting Recognition using backpropogation technique on a neural network. 
+Handwriting Recognition using backpropagation technique on a neural network. 
